@@ -2,11 +2,12 @@
 
 Project developed to improve my skills in JavaScript
 
-![MIDI Drum](url da imagem gerado pelo serviço de hospedagem ou GitHub)
+![MIDI Drum](https://github.com/GabrielNeves/midi_drum/blob/master/images/thumbnail.png)
 
 Download the repository:
 ```
-git clone
+git clone https://github.com/GabrielNeves/midi_drum.git
 ```
 
 Open file index.html on your favorite browser.
+
