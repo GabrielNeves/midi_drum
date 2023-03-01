@@ -1,4 +1,4 @@
-<h1 align="center">MIDI Drum</h1>
+<h1>MIDI Drum</h1>
 
 Project developed to improve my skills in JavaScript
 
