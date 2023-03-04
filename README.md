@@ -9,5 +9,5 @@ Download the repository:
 git clone https://github.com/GabrielNeves/midi_drum.git
 ```
 
-Open file index.html on your favorite browser.
+Open file index.html on your favorite browser and play with it.
 
